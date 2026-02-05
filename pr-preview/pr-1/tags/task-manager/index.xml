@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Task-Manager on isopath</title><link>https://isopath.github.io/tags/task-manager/</link><description>Recent content in Task-Manager on isopath</description><generator>Hugo -- 0.146.0</generator><language>en-us</language><lastBuildDate>Wed, 05 Feb 2025 14:00:00 +0000</lastBuildDate><atom:link href="https://isopath.github.io/tags/task-manager/index.xml" rel="self" type="application/rss+xml"/><item><title>getset.go</title><link>https://isopath.github.io/posts/getset-go/</link><pubDate>Wed, 05 Feb 2025 14:00:00 +0000</pubDate><guid>https://isopath.github.io/posts/getset-go/</guid><description>&lt;p>TUI Task Manager in Go with P2P Sync&lt;/p>
+&lt;p>Reference :
+charm.sh
+taskwarrior&lt;/p></description></item></channel></rss>
