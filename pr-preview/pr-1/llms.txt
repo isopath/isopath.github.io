@@ -1,8 +1,4 @@
 # isopath
 
 ## Posts
-- [getset.go](https://isopath.github.io/posts/getset-go/)
-- [Key Value Pairs](https://isopath.github.io/posts/key-value-pairs/)
-- [lsp.pl](https://isopath.github.io/posts/lsp-pl/)
 - [matrix.go](https://isopath.github.io/posts/matrix-go/)
-- [vm.rs](https://isopath.github.io/posts/vm-rs/)
