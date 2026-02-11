@@ -1,0 +1,41 @@
+baseURL: https://isopath.github.io/
+title: isopath
+theme: ["PaperMod"]
+
+languageCode: en-us
+
+enableRobotsTXT: true
+buildDrafts: false
+enableEmoji: true
+
+outputFormats:
+  llms:
+    mediaType: "text/plain"
+    baseName: "llms"
+    isPlainText: true
+    notAlternative: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+    - llms
+
+menu:
+  main:
+    - identifier: Archives
+      name: Archives
+      url: /archives/
+      weight: 10
+
+params:
+  defaultTheme: dark
+  disableThemeToggle: true
+
+  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/isopath"
