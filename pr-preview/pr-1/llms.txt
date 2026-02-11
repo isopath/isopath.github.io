@@ -1,4 +1,4 @@
 # isopath
 
 ## Posts
-- [matrix.go](https://isopath.github.io/posts/matrix-go/)
+- [matrix.go](https://isopath.github.io/isopath.github.io/pr-preview/pr-1/posts/matrix-go/)
