@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://isopath.github.io/isopath.github.io/pr-preview/pr-2/sitemap.xml
