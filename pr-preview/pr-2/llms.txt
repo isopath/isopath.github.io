@@ -1,4 +1,4 @@
 # isopath
 
 ## Posts
-- [My new name is... Rain Man](https://isopath.github.io/pr-preview/pr-2/posts/matrix-go/)
+- [Building The Matrix Effect in Go with Bubble Tea](https://isopath.github.io/pr-preview/pr-2/posts/matrix-go/)
