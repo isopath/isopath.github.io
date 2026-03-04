@@ -33,6 +33,9 @@ params:
   defaultTheme: dark
   disableThemeToggle: true
 
+  mainSections:
+    - posts
+
   ShowPostNavLinks: true
   ShowCodeCopyButtons: true
 
